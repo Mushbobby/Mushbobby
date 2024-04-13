@@ -1,6 +1,8 @@
-im a person 
-interested in games art and coding
-learning c# right now
+if you are reading this heres the languages i know (to an extent)
+~ mainly python
+~ a decent amount of c++
+~ some c#
+~ decent amount of lua
 - im on discord @mushbobby
 
 <!---
