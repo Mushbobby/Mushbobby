@@ -1,8 +1,5 @@
-if you are reading this heres the languages i know (to an extent)
- mainly python
- a decent amount of c++
- some c#
- decent amount of lua
+if you are reading this heres the languages i know (to an extent) are:
+ mainly python, a decent amount of c++, some c# and a decent amount of lua
  - message me on discord if you want to talk
  - discord: @mushbobby
 
